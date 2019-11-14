@@ -29,6 +29,10 @@
 
 You can see project page:
 
-- Go to next pages:
+- The first method. Go to next pages:
 
   > http://localhost:1234/
+
+- The second method:
+
+  > https://serhiibabii.github.io/js-band-hw-task-1/
