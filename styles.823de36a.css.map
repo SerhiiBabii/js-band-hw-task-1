@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,KACE,YAAa,CACb,qBAAsB,CACtB,SAAU,CACV,aACF","file":"styles.823de36a.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\nform {\n  display: flex;\n  flex-direction: column;\n  width: 50%;\n  margin: 0 auto;\n}\n"]}
